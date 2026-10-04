@@ -39,7 +39,6 @@ apis:
   - name: Kroki
     description: "Creates diagrams from textual descriptions"
     humanURL: https://kroki.io
-    baseURL: https://kroki.io
     tags:
       - Development
     properties:
